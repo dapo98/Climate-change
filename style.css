@@ -1,0 +1,72 @@
+
+#header {
+    display: block;
+    position: relative;
+  /* height: 500px; */
+    
+  }
+  h2,p,blockquote,.card-body{padding: 10px;}
+  #section{ 
+      display:block;
+      position: relative;
+      height:fit-content;
+      width: 100%;
+      
+    /*  background-color: white; */
+  } 
+#bar{
+    position: relative;
+   display:block;
+   float:right;
+   width: 25%;
+   height: auto;
+   padding:10px;
+}
+  #aside{   
+    position: relative;
+   display:block;
+   float:right;
+   width: 25%;
+   height: auto;
+   padding:10px;
+    /*background-color: white; */
+
+  /*  background-image: url('image/color.jpg') */
+}
+h3{
+    text-align: center;
+    font-size: 70px;
+    color: green;
+}
+#footer{
+    width:100%;
+    height: auto;
+    display: block;
+    background-color: paleturquoise;
+   /* margin-top: 400px; */
+   text-align: center;
+   clear: right;
+   padding: 10px;
+   margin: 10px;
+   
+   position: fixed;
+    
+
+}
+#main{
+    display:block;
+    position: relative;
+    height:fit-content;
+    width: 55%;
+    height: 30%;
+    
+}
+#article{display:block;
+    position: relative;
+    height:fit-content;
+    width: 100%;
+    height:auto;}
+    .pagination{
+        float: right;
+        padding:10px;
+    }
